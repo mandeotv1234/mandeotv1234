@@ -7,17 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Microservice_Cinema_Booking](https://github.com/mandeotv1234/Microservice_Cinema_Booking.git)
-
-- 🌱 I’m currently learning **VueJS**
-
-- 👯 I’m looking to collaborate on [Microservice_Cinema_Booking](https://github.com/mandeotv1234/Microservice_Cinema_Booking.git)
-
-- 🤝 I’m looking for help with [Microservice_Cinema_Booking](https://github.com/mandeotv1234/Microservice_Cinema_Booking.git)
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/11azJquCHTGL8r6gcpl5SC4yQV4ITG6kORiSgmEAIRS0/edit?tab=t.0#heading=h.y0j3upblzw31](https://docs.google.com/document/d/11azJquCHTGL8r6gcpl5SC4yQV4ITG6kORiSgmEAIRS0/edit?tab=t.0#heading=h.y0j3upblzw31)
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **mandeotv1234@gmail.com**
 
